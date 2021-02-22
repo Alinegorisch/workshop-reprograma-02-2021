@@ -1,0 +1,50 @@
+body {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    align-items: center;
+    box-sizing: border-box;
+  }
+
+  .cabecalho__titulo {
+    margin: 0 10rem 0 0;
+    font-size: 25px;
+}
+.cabecalho__titulo {
+    margin: 0 0 1.5rem;
+    display: block;
+}
+  
+  .secao_form legend {
+    font-weight: bold;
+    padding: 0;
+    margin: 0 0 0.5rem 0;
+}
+* {
+    box-sizing: border-box;
+    font-family: "Abel", "Lato", sans-serif;
+    font-size: 16px;
+}
+
+
+
+.secao_resultado {
+  font-size: 3.5rem;
+  color: #7f479b;
+  margin: 0 0 0.5rem 0;
+}
+
+button {
+  background-color: #dea3e4;
+  border: yes;
+  color: #000;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  cursor: pointer;
+  width: 50%;
+  height: 40px;
+  border-radius: 5px;
+  margin: 1.5rem 0 0 0;
+}
+
